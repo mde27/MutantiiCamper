@@ -129,7 +129,7 @@ section{
     align-items: center;
     background:url("../images/CamperWide.jpg") no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: right;
 }
 
 .home .content{
